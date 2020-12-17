@@ -1,0 +1,1 @@
+- https://betterdev.blog/minimal-safe-bash-script-template/
